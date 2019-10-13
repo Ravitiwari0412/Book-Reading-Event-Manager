@@ -1,0 +1,26 @@
+﻿@model Events.Web.Models.EventInputModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+
+}
+
+@{
+    
+    Html.EnableClientValidation(true);
+}
+
+<h2>Create New Event</h2>
+<hr />
+
+@Html.Partial("_EventEditorForm")
+
+@section scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/bootstrap-datetimepicker")
+}
+
+@section styles {
+    @Styles.Render("~/Content/bootstrap-datetimepicker")
+}

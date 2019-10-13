@@ -1,0 +1,16 @@
+C:\Users\ravitiwari\Downloads\BookEvents.Business\bin\Debug\BookEvents.Business.dll
+C:\Users\ravitiwari\Downloads\BookEvents.Business\bin\Debug\BookEvents.Business.pdb
+C:\Users\ravitiwari\Downloads\BookEvents.Business\bin\Debug\Events.Data.dll
+C:\Users\ravitiwari\Downloads\BookEvents.Business\bin\Debug\Shared.dll
+C:\Users\ravitiwari\Downloads\BookEvents.Business\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ravitiwari\Downloads\BookEvents.Business\bin\Debug\EntityFramework.dll
+C:\Users\ravitiwari\Downloads\BookEvents.Business\bin\Debug\Events.Data.pdb
+C:\Users\ravitiwari\Downloads\BookEvents.Business\bin\Debug\Events.Data.dll.config
+C:\Users\ravitiwari\Downloads\BookEvents.Business\bin\Debug\Shared.pdb
+C:\Users\ravitiwari\Downloads\BookEvents.Business\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ravitiwari\Downloads\BookEvents.Business\bin\Debug\EntityFramework.xml
+C:\Users\ravitiwari\Downloads\BookEvents.Business\obj\Debug\BookEvents.Business.csprojAssemblyReference.cache
+C:\Users\ravitiwari\Downloads\BookEvents.Business\obj\Debug\BookEvents.Business.csproj.CoreCompileInputs.cache
+C:\Users\ravitiwari\Downloads\BookEvents.Business\obj\Debug\BookEvents.Business.csproj.CopyComplete
+C:\Users\ravitiwari\Downloads\BookEvents.Business\obj\Debug\BookEvents.Business.dll
+C:\Users\ravitiwari\Downloads\BookEvents.Business\obj\Debug\BookEvents.Business.pdb
